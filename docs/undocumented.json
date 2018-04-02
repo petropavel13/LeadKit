@@ -1,0 +1,1503 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/FixedPageCursor.swift",
+      "line": 28,
+      "symbol": "FixedPageCursor.ResultType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/FixedPageCursor.swift",
+      "line": 44,
+      "symbol": "FixedPageCursor.exhausted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/FixedPageCursor.swift",
+      "line": 48,
+      "symbol": "FixedPageCursor.count",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/FixedPageCursor.swift",
+      "line": 50,
+      "symbol": "FixedPageCursor.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/FixedPageCursor.swift",
+      "line": 54,
+      "symbol": "FixedPageCursor.loadNextBatch()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/FixedPageCursor.swift",
+      "line": 81,
+      "symbol": "ResettableFixedPageCursor.ResultType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/MapCursor.swift",
+      "line": 50,
+      "symbol": "MapCursor.ResultType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/MapCursor.swift",
+      "line": 52,
+      "symbol": "MapCursor.Transform",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/MapCursor.swift",
+      "line": 70,
+      "symbol": "MapCursor.exhausted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/MapCursor.swift",
+      "line": 74,
+      "symbol": "MapCursor.count",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/MapCursor.swift",
+      "line": 78,
+      "symbol": "MapCursor.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/MapCursor.swift",
+      "line": 82,
+      "symbol": "MapCursor.loadNextBatch()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/MapCursor.swift",
+      "line": 96,
+      "symbol": "ResettableMapCursor.ResultType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/SingleLoadCursor.swift",
+      "line": 28,
+      "symbol": "SingleLoadCursorConfiguration.ResultType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/SingleLoadCursor.swift",
+      "line": 39,
+      "symbol": "SingleLoadCursorConfiguration.resultSingle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/SingleLoadCursor.swift",
+      "line": 68,
+      "symbol": "SingleLoadCursor.exhausted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/SingleLoadCursor.swift",
+      "line": 70,
+      "symbol": "SingleLoadCursor.count",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/SingleLoadCursor.swift",
+      "line": 74,
+      "symbol": "SingleLoadCursor.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/SingleLoadCursor.swift",
+      "line": 78,
+      "symbol": "SingleLoadCursor.loadNextBatch()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/StaticCursor.swift",
+      "line": 28,
+      "symbol": "StaticCursor.ResultType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/StaticCursor.swift",
+      "line": 43,
+      "symbol": "StaticCursor.exhausted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/StaticCursor.swift",
+      "line": 45,
+      "symbol": "StaticCursor.count",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/StaticCursor.swift",
+      "line": 47,
+      "symbol": "StaticCursor.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/StaticCursor.swift",
+      "line": 51,
+      "symbol": "StaticCursor.loadNextBatch()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/TotalCountCursor.swift",
+      "line": 26,
+      "symbol": "TotalCountCursor",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/TotalCountCursor.swift",
+      "line": 28,
+      "symbol": "TotalCountCursor.Element",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/TotalCountCursor.swift",
+      "line": 29,
+      "symbol": "TotalCountCursor.ResultType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/TotalCountCursor.swift",
+      "line": 35,
+      "symbol": "TotalCountCursor.totalCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/TotalCountCursor.swift",
+      "line": 37,
+      "symbol": "TotalCountCursor.exhausted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/TotalCountCursor.swift",
+      "line": 41,
+      "symbol": "TotalCountCursor.count",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/TotalCountCursor.swift",
+      "line": 45,
+      "symbol": "TotalCountCursor.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/TotalCountCursor.swift",
+      "line": 49,
+      "symbol": "TotalCountCursor.init(configuration:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/Cursors/TotalCountCursor.swift",
+      "line": 57,
+      "symbol": "TotalCountCursor.loadNextBatch()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/GeneralDataLoading/GeneralDataLoadingModel.swift",
+      "line": 25,
+      "symbol": "GeneralDataLoadingModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/GeneralDataLoading/GeneralDataLoadingViewModel.swift",
+      "line": null,
+      "symbol": "GeneralDataLoadingViewModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/GeneralDataLoading/GeneralDataLoadingViewModel.swift",
+      "line": 26,
+      "symbol": "GeneralDataLoadingViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/GeneralDataLoading/GeneralDataLoadingViewModel.swift",
+      "line": 28,
+      "symbol": "GeneralDataLoadingViewModel.LoadingModel",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/GeneralDataLoading/GeneralDataLoadingViewModel.swift",
+      "line": 29,
+      "symbol": "GeneralDataLoadingViewModel.DataSourceType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/GeneralDataLoading/GeneralDataLoadingViewModel.swift",
+      "line": 30,
+      "symbol": "GeneralDataLoadingViewModel.LoadingState",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/GeneralDataLoading/GeneralDataLoadingViewModel.swift",
+      "line": 36,
+      "symbol": "GeneralDataLoadingViewModel.disposeBag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/GeneralDataLoading/GeneralDataLoadingViewModel.swift",
+      "line": 97,
+      "symbol": "GeneralDataLoadingViewModel.init(dataSource:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/PaginationDataLoading/PaginationDataLoadingModel.swift",
+      "line": 25,
+      "symbol": "PaginationDataLoadingModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/PaginationDataLoading/PaginationDataLoadingModel.swift",
+      "line": 39,
+      "symbol": "PaginationDataLoadingModel.PaginationEmptyResultChecker",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/PaginationDataLoading/PaginationDataLoadingModel.swift",
+      "line": 41,
+      "symbol": "PaginationDataLoadingModel.init(dataSource:emptyResultChecker:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/PaginationDataLoading/PaginationDataLoadingModel.swift",
+      "line": 45,
+      "symbol": "PaginationDataLoadingModel.reload()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/PaginationDataLoading/PaginationDataLoadingModel.swift",
+      "line": 54,
+      "symbol": "PaginationDataLoadingModel.loadMore()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/PaginationDataLoading/PaginationWrapper.swift",
+      "line": 51,
+      "symbol": "PaginationWrapper.pullToRefreshEnabled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/RxDataLoadingModel.swift",
+      "line": 26,
+      "symbol": "RxDataLoadingModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/RxDataLoadingModel.swift",
+      "line": 29,
+      "symbol": "RxDataLoadingModel.DataSourceType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/RxDataLoadingModel.swift",
+      "line": 30,
+      "symbol": "RxDataLoadingModel.ResultType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/RxDataLoadingModel.swift",
+      "line": 32,
+      "symbol": "RxDataLoadingModel.EmptyResultChecker",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/RxDataLoadingModel.swift",
+      "line": 40,
+      "symbol": "RxDataLoadingModel.stateDriver",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/RxDataLoadingModel.swift",
+      "line": 44,
+      "symbol": "RxDataLoadingModel.init(dataSource:emptyResultChecker:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/DataLoading/RxDataLoadingModel.swift",
+      "line": 49,
+      "symbol": "RxDataLoadingModel.reload()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Logging/App.swift",
+      "line": 25,
+      "symbol": "App",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Logging/Log.swift",
+      "line": 26,
+      "symbol": "Log",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Logging/Log.swift",
+      "line": 28,
+      "symbol": "Log.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Services/NetworkService.swift",
+      "line": 40,
+      "symbol": "NetworkService.sessionManager",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/EmptyCell/EmptyCell.swift",
+      "line": 29,
+      "symbol": "EmptyCell.Appearance",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/EmptyCell/EmptyCell.swift",
+      "line": 32,
+      "symbol": "EmptyCell.Appearance.init(color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/EmptyCell/EmptyCell.swift",
+      "line": 37,
+      "symbol": "EmptyCell.init(style:reuseIdentifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/EmptyCell/EmptyCell.swift",
+      "line": 43,
+      "symbol": "EmptyCell.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/EmptyCell/EmptyCell.swift",
+      "line": 47,
+      "symbol": "EmptyCell.configure(appearance:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/EmptyCell/EmptyCell.swift",
+      "line": 53,
+      "symbol": "EmptyCell.configure(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/EmptyCell/EmptyCell.swift",
+      "line": 55,
+      "symbol": "EmptyCell.prepareForReuse()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/SeparatorCell/SeparatorCell.swift",
+      "line": 98,
+      "symbol": "SeparatorCell.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/SeparatorCell/SeparatorCell.swift",
+      "line": 104,
+      "symbol": "SeparatorCell.init(style:reuseIdentifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/SeparatorCell/SeparatorCell.swift",
+      "line": 110,
+      "symbol": "SeparatorCell.updateConstraints()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/SeparatorCell/SeparatorCell.swift",
+      "line": 183,
+      "symbol": "SeparatorCell.prepareForReuse()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/SeparatorCell/SeparatorConfiguration.swift",
+      "line": 28,
+      "symbol": "SeparatorConfiguration.color",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/SeparatorCell/SeparatorConfiguration.swift",
+      "line": 29,
+      "symbol": "SeparatorConfiguration.insets",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/SeparatorCell/SeparatorConfiguration.swift",
+      "line": 30,
+      "symbol": "SeparatorConfiguration.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/SeparatorRowBox/SeparatorRowBox.swift",
+      "line": 30,
+      "symbol": "SeparatorRowBox.set(separatorType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/SeparatorRowBox/SeparatorRowBox.swift",
+      "line": 34,
+      "symbol": "SeparatorRowBox.row",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/SpinnerView/SpinnerView.swift",
+      "line": 25,
+      "symbol": "SpinnerView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/SpinnerView/SpinnerView.swift",
+      "line": 37,
+      "symbol": "SpinnerView.init(image:animationDuration:animationRepeatCount:clockwiseAnimation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/SpinnerView/SpinnerView.swift",
+      "line": 67,
+      "symbol": "SpinnerView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/SpinnerView/SpinnerView.swift",
+      "line": 75,
+      "symbol": "SpinnerView.didMoveToWindow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/TextField/DataModelFieldBinding.swift",
+      "line": 29,
+      "symbol": "DataModelFieldBinding.GetFieldClosure",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/TextField/DataModelFieldBinding.swift",
+      "line": 30,
+      "symbol": "DataModelFieldBinding.MergeFieldClosure",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/TextField/TextFieldViewModel.swift",
+      "line": 35,
+      "symbol": "TextFieldViewModel.disposeBag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/TextField/TextFieldViewModel.swift",
+      "line": 74,
+      "symbol": "TextFieldViewModel.MapViewEventsClosure",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/XibView/XibView.swift",
+      "line": 34,
+      "symbol": "XibView.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/XibView/XibView.swift",
+      "line": 38,
+      "symbol": "XibView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Classes/Views/XibView/XibView.swift",
+      "line": 43,
+      "symbol": "XibView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/CursorError.swift",
+      "line": 30,
+      "symbol": "CursorError.exhausted",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/GeneralDataLoading/GeneralDataLoadingState.swift",
+      "line": null,
+      "symbol": "GeneralDataLoadingState",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/GeneralDataLoading/GeneralDataLoadingState.swift",
+      "line": 23,
+      "symbol": "GeneralDataLoadingState",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/GeneralDataLoading/GeneralDataLoadingState.swift",
+      "line": 25,
+      "symbol": "GeneralDataLoadingState.initial",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/GeneralDataLoading/GeneralDataLoadingState.swift",
+      "line": 26,
+      "symbol": "GeneralDataLoadingState.loading",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/GeneralDataLoading/GeneralDataLoadingState.swift",
+      "line": 27,
+      "symbol": "GeneralDataLoadingState.result",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/GeneralDataLoading/GeneralDataLoadingState.swift",
+      "line": 28,
+      "symbol": "GeneralDataLoadingState.error",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/GeneralDataLoading/GeneralDataLoadingState.swift",
+      "line": 29,
+      "symbol": "GeneralDataLoadingState.empty",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/GeneralDataLoading/GeneralDataLoadingState.swift",
+      "line": 31,
+      "symbol": "GeneralDataLoadingState.DataSourceType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/PaginationDataLoading/PaginationDataLoadingState.swift",
+      "line": 23,
+      "symbol": "PaginationDataLoadingState",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/PaginationDataLoading/PaginationDataLoadingState.swift",
+      "line": 25,
+      "symbol": "PaginationDataLoadingState.initial",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/PaginationDataLoading/PaginationDataLoadingState.swift",
+      "line": 26,
+      "symbol": "PaginationDataLoadingState.initialLoading",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/PaginationDataLoading/PaginationDataLoadingState.swift",
+      "line": 27,
+      "symbol": "PaginationDataLoadingState.loadingMore",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/PaginationDataLoading/PaginationDataLoadingState.swift",
+      "line": 28,
+      "symbol": "PaginationDataLoadingState.results",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/PaginationDataLoading/PaginationDataLoadingState.swift",
+      "line": 29,
+      "symbol": "PaginationDataLoadingState.error",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/PaginationDataLoading/PaginationDataLoadingState.swift",
+      "line": 30,
+      "symbol": "PaginationDataLoadingState.empty",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/PaginationDataLoading/PaginationDataLoadingState.swift",
+      "line": 31,
+      "symbol": "PaginationDataLoadingState.exhausted",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/DataLoading/PaginationDataLoading/PaginationDataLoadingState.swift",
+      "line": 33,
+      "symbol": "PaginationDataLoadingState.DataSourceType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/LeadKitError.swift",
+      "line": 30,
+      "symbol": "LeadKitError.failedToCastValue",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/RequestError.swift",
+      "line": 34,
+      "symbol": "RequestError.noConnection",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/RequestError.swift",
+      "line": 35,
+      "symbol": "RequestError.network",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/RequestError.swift",
+      "line": 36,
+      "symbol": "RequestError.invalidResponse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/RequestError.swift",
+      "line": 37,
+      "symbol": "RequestError.mapping",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/ResizeMode.swift",
+      "line": 32,
+      "symbol": "ResizeMode.scaleAspectFill",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/ResizeMode.swift",
+      "line": 32,
+      "symbol": "ResizeMode.scaleAspectFit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/ResizeMode.swift",
+      "line": 32,
+      "symbol": "ResizeMode.scaleToFill",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/Views/ViewBackground.swift",
+      "line": 31,
+      "symbol": "ViewBackground.color",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/Views/ViewBackground.swift",
+      "line": 32,
+      "symbol": "ViewBackground.image",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/Views/ViewText.swift",
+      "line": 31,
+      "symbol": "ViewText.string",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Enums/Views/ViewText.swift",
+      "line": 32,
+      "symbol": "ViewText.attributedString",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/Array/Array+Extensions.swift",
+      "line": 72,
+      "symbol": "Array.subscript(safe:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/Array/Array+TotalCountCursorListingResult.swift",
+      "line": 25,
+      "symbol": "Array.ElementType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/Array/Array+TotalCountCursorListingResult.swift",
+      "line": 27,
+      "symbol": "Array.results",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/Array/Array+TotalCountCursorListingResult.swift",
+      "line": 31,
+      "symbol": "Array.totalCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/CursorType/CursorType+RxDataSourceDefaultImplementation.swift",
+      "line": 27,
+      "symbol": "CursorType.ResultType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/CursorType/CursorType+RxDataSourceDefaultImplementation.swift",
+      "line": 29,
+      "symbol": "CursorType.resultSingle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/CursorType/CursorType+Slice.swift",
+      "line": 27,
+      "symbol": "CursorType.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/CursorType/CursorType+Slice.swift",
+      "line": 31,
+      "symbol": "CursorType.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/CursorType/CursorType+Slice.swift",
+      "line": 35,
+      "symbol": "CursorType.loadedElements",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/GeneralDataLoading/GeneralDataLoadingController+DefaultImplementation.swift",
+      "line": 30,
+      "symbol": "GeneralDataLoadingController.disposeBag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/GeneralDataLoading/GeneralDataLoadingController+DefaultImplementation.swift",
+      "line": 36,
+      "symbol": "GeneralDataLoadingController.hasContent()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/PaginationDataLoading/UICollectionView+PaginationWrappable.swift",
+      "line": 27,
+      "symbol": "UICollectionView.scrollView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/PaginationDataLoading/UICollectionView+PaginationWrappable.swift",
+      "line": 31,
+      "symbol": "UICollectionView.footerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/PaginationDataLoading/UITableView+PaginationWrappable.swift",
+      "line": 27,
+      "symbol": "UITableView.scrollView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/PaginationDataLoading/UITableView+PaginationWrappable.swift",
+      "line": 31,
+      "symbol": "UITableView.footerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/Rx+RxDataSourceProtocol.swift",
+      "line": 28,
+      "symbol": "Observable.ResultType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/Rx+RxDataSourceProtocol.swift",
+      "line": 30,
+      "symbol": "Observable.resultSingle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/Rx+RxDataSourceProtocol.swift",
+      "line": 42,
+      "symbol": "Single.ResultType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/DataLoading/Rx+RxDataSourceProtocol.swift",
+      "line": 44,
+      "symbol": "Single.resultSingle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/Double/Double+Rounding.swift",
+      "line": 34,
+      "symbol": "Double.RoundingType.normal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/Double/Double+Rounding.swift",
+      "line": 35,
+      "symbol": "Double.RoundingType.down",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/Drawing/CGContext/CGContext+Initializers.swift",
+      "line": 29,
+      "symbol": "CGBitmapInfo.alphaBitmapInfo",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/Drawing/CGContext/CGContext+Initializers.swift",
+      "line": 30,
+      "symbol": "CGBitmapInfo.opaqueBitmapInfo",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/Drawing/CGSize/CGSize+CGContextSize.swift",
+      "line": 27,
+      "symbol": "CGSize.ceiledContextSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/NSAttributedString/NSAttributedString+Extensions.swift",
+      "line": 27,
+      "symbol": "NSAttributedString.+(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/NSAttributedString/NSAttributedString+Extensions.swift",
+      "line": 43,
+      "symbol": "NSMutableAttributedString.+(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/NSAttributedString/NSAttributedString+Extensions.swift",
+      "line": 49,
+      "symbol": "NSMutableAttributedString.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/NumberFormattingService/NumberFormattingService+DefaultImplementation.swift",
+      "line": 40,
+      "symbol": "NumberFormattingService.string(from:format:defaultString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/NumberFormattingService/NumberFormattingService+DefaultImplementation.swift",
+      "line": 44,
+      "symbol": "NumberFormattingService.string(from:format:defaultString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/NumberFormattingService/NumberFormattingService+DefaultImplementation.swift",
+      "line": 48,
+      "symbol": "NumberFormattingService.string(from:format:defaultString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/NumberFormattingService/NumberFormattingService+DefaultImplementation.swift",
+      "line": 52,
+      "symbol": "NumberFormattingService.string(from:format:defaultString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/NumberFormattingService/NumberFormattingService+DefaultImplementation.swift",
+      "line": 56,
+      "symbol": "NumberFormattingService.string(from:format:defaultString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/NumberFormattingService/NumberFormattingService+DefaultImplementation.swift",
+      "line": 60,
+      "symbol": "NumberFormattingService.string(from:format:defaultString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/Support/UIScrollView+Support.swift",
+      "line": 27,
+      "symbol": "Support.refreshControl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/Support/UIScrollView+Support.swift",
+      "line": 35,
+      "symbol": "Support.setRefreshControl(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/TableDirector/TableRow+AppearanceExtension.swift",
+      "line": 29,
+      "symbol": "TableRow.with(appearance:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/TableDirector/TableRow+AppearanceExtension.swift",
+      "line": 34,
+      "symbol": "TableRow.set(appearance:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/TableDirector/TableRow+SeparatorsExtensions.swift",
+      "line": 29,
+      "symbol": "TableRow.with(separatorType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/TableDirector/TableRow+SeparatorsExtensions.swift",
+      "line": 34,
+      "symbol": "TableRow.set(separatorType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/TimeInterval/TimeInterval+DateComponents.swift",
+      "line": 33,
+      "symbol": "TimeInterval.TimeComponents",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/UIKit/UIViewController/UIViewController+ConfigurableController.swift",
+      "line": 27,
+      "symbol": "ConfigurableController.bindViews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/UIKit/UIViewController/UIViewController+ConfigurableController.swift",
+      "line": 31,
+      "symbol": "ConfigurableController.addViews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/UIKit/UIViewController/UIViewController+ConfigurableController.swift",
+      "line": 35,
+      "symbol": "ConfigurableController.setAppearance()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/UIKit/UIViewController/UIViewController+ConfigurableController.swift",
+      "line": 39,
+      "symbol": "ConfigurableController.configureBarButtons()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/UIKit/UIViewController/UIViewController+ConfigurableController.swift",
+      "line": 43,
+      "symbol": "ConfigurableController.localize()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Extensions/UIKit/UIViewController/UIViewController+ConfigurableController.swift",
+      "line": 47,
+      "symbol": "ConfigurableController.initialLoadView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/AppearanceConfigurable.swift",
+      "line": 24,
+      "symbol": "AppearanceConfigurable",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/AppearanceConfigurable.swift",
+      "line": 25,
+      "symbol": "AppearanceConfigurable.Appearance",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/AppearanceConfigurable.swift",
+      "line": 27,
+      "symbol": "AppearanceConfigurable.configure(appearance:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/BaseViewModel.swift",
+      "line": 25,
+      "symbol": "BaseViewModel",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ConfigurableController.swift",
+      "line": null,
+      "symbol": "ConfigurableController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ConfigurableController.swift",
+      "line": 25,
+      "symbol": "ConfigurableController",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ConfigurableController.swift",
+      "line": 27,
+      "symbol": "ConfigurableController.ViewModelT",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ConfigurableController.swift",
+      "line": 29,
+      "symbol": "ConfigurableController.viewModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ConfigurableController.swift",
+      "line": 31,
+      "symbol": "ConfigurableController.bindViews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ConfigurableController.swift",
+      "line": 33,
+      "symbol": "ConfigurableController.addViews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ConfigurableController.swift",
+      "line": 35,
+      "symbol": "ConfigurableController.setAppearance()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ConfigurableController.swift",
+      "line": 37,
+      "symbol": "ConfigurableController.configureBarButtons()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ConfigurableController.swift",
+      "line": 39,
+      "symbol": "ConfigurableController.localize()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ConfigurableController.swift",
+      "line": 41,
+      "symbol": "ConfigurableController.initialLoadView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ConfigurableView.swift",
+      "line": 29,
+      "symbol": "ConfigurableView.ViewModelType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/Cursors/CursorType.swift",
+      "line": 28,
+      "symbol": "CursorType.Element",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/Cursors/CursorType.swift",
+      "line": 36,
+      "symbol": "CursorType.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/DataLoadingModel.swift",
+      "line": 29,
+      "symbol": "DataLoadingModel.LoadingStateType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/DataLoadingState.swift",
+      "line": 26,
+      "symbol": "DataLoadingState.DataSourceType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/DataSource.swift",
+      "line": 26,
+      "symbol": "DataSource.ResultType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/GeneralDataLoading/GeneralDataLoadingController.swift",
+      "line": null,
+      "symbol": "GeneralDataLoadingController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/GeneralDataLoading/GeneralDataLoadingController.swift",
+      "line": null,
+      "symbol": "GeneralDataLoadingController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/GeneralDataLoading/GeneralDataLoadingController.swift",
+      "line": 23,
+      "symbol": "GeneralDataLoadingController",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/GeneralDataLoading/GeneralDataLoadingController.swift",
+      "line": 26,
+      "symbol": "GeneralDataLoadingController.ViewModelResultType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/PaginationDataLoading/PaginationWrappable.swift",
+      "line": 28,
+      "symbol": "ScrollViewHolder.scrollView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/PaginationDataLoading/PaginationWrappable.swift",
+      "line": 35,
+      "symbol": "BackgroundViewHolder.backgroundView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/PaginationDataLoading/PaginationWrappable.swift",
+      "line": 42,
+      "symbol": "FooterViewHolder.footerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/PaginationDataLoading/TotalCountCursorListingResult.swift",
+      "line": 27,
+      "symbol": "TotalCountCursorListingResult.ElementType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/PaginationDataLoading/TotalCountCursorListingResult.swift",
+      "line": 29,
+      "symbol": "TotalCountCursorListingResult.results",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DataLoading/PaginationDataLoading/TotalCountCursorListingResult.swift",
+      "line": 30,
+      "symbol": "TotalCountCursorListingResult.totalCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/DateFormatingService/DateFormattingService.swift",
+      "line": 28,
+      "symbol": "DateFormattingService.DateFormatType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/Drawing/DrawingOperation.swift",
+      "line": 25,
+      "symbol": "CGContextSize",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/LoadingIndicator.swift",
+      "line": 27,
+      "symbol": "LoadingIndicatorHolder.loadingIndicator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/LoadingIndicator.swift",
+      "line": 28,
+      "symbol": "LoadingIndicatorHolder.indicatorOwner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/LoadingIndicator.swift",
+      "line": 32,
+      "symbol": "LoadingIndicatorHolder.indicatorOwner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ModuleConfigurator.swift",
+      "line": 23,
+      "symbol": "ModuleConfigurator",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ModuleConfigurator.swift",
+      "line": 25,
+      "symbol": "ModuleConfigurator.ViewControllerT",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ModuleConfigurator.swift",
+      "line": 27,
+      "symbol": "ModuleConfigurator.configure(input:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/NumberFormattingService/NumberFormattingService.swift",
+      "line": 28,
+      "symbol": "NumberFormattingService.NumberFormatType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/NumberFormattingService/NumberFormattingService.swift",
+      "line": 30,
+      "symbol": "NumberFormattingService.formatters",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ObservableMappable.swift",
+      "line": 29,
+      "symbol": "ObservableMappable.ModelType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ObservableMappable.swift",
+      "line": 31,
+      "symbol": "ObservableMappable.createFrom(map:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ReuseIdentifierProtocol.swift",
+      "line": 29,
+      "symbol": "AbstractReuseIdentifierProtocol.IdentifierType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/Rx/DisposeBagHolder.swift",
+      "line": 28,
+      "symbol": "DisposeBagHolder.disposeBag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Protocols/ViewHeightProtocol.swift",
+      "line": 29,
+      "symbol": "ViewHeightProtocol.ViewModelType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Structures/Api/ApiRequestParameters.swift",
+      "line": 36,
+      "symbol": "ApiRequestParameters.init(url:method:parameters:encoding:headers:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Structures/DataLoading/Cursors/DefaultTotalCountCursorListingResult.swift",
+      "line": 26,
+      "symbol": "DefaultTotalCountCursorListingResult.results",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Structures/DataLoading/Cursors/DefaultTotalCountCursorListingResult.swift",
+      "line": 27,
+      "symbol": "DefaultTotalCountCursorListingResult.totalCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Structures/DataLoading/PaginationDataLoading/AnyPaginationWrappable.swift",
+      "line": 30,
+      "symbol": "AnyPaginationWrappable.footerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Structures/DataLoading/PaginationDataLoading/AnyPaginationWrappable.swift",
+      "line": 39,
+      "symbol": "AnyPaginationWrappable.backgroundView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Structures/DataLoading/PaginationDataLoading/AnyPaginationWrappable.swift",
+      "line": 48,
+      "symbol": "AnyPaginationWrappable.scrollView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Structures/DataLoading/PaginationDataLoading/AnyPaginationWrappable.swift",
+      "line": 56,
+      "symbol": "AnyPaginationWrappable.init(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit/Sources/Structures/DataLoading/PaginationDataLoading/PaginationWrapperDelegate.swift",
+      "line": 27,
+      "symbol": "PaginationWrapperDelegate.DataSourceType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/ivansmolin/Projects/tmp/tmp/LeadKit"
+}

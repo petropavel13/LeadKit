@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>DrawingOperation Protocol Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Protocol/DrawingOperation" class="dashAnchor"></a>
+    <a title="DrawingOperation Protocol Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../index.html">LeadKit Docs</a> (65% documented)</p>
+        <p class="header-right"><a href="https://github.com/petropavel13/LeadKit"><img src="../img/gh.png"/>View on GitHub</a></p>
+        <p class="header-right"><a href="dash-feed://https%3A%2F%2Fgithub%2Ecom%2Fpetropavel13%2FLeadKit%2Ftree%2F0%2E7%2E5%2Fdocs%2Fdocsets%2FLeadKit%2Exml"><img src="../img/dash.png"/>Install in Dash</a></p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../index.html">LeadKit Reference</a>
+        <img id="carat" src="../img/carat.png" />
+        DrawingOperation Protocol Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Classes/AnyPaginationWrappable.html">AnyPaginationWrappable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/App.html">App</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/DataModelFieldBinding.html">DataModelFieldBinding</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/EmptyCell.html">EmptyCell</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/EmptyCell/Appearance.html">– Appearance</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/EmptyCellRow.html">EmptyCellRow</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/FixedPageCursor.html">FixedPageCursor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes.html#/s:7LeadKit23GeneralDataLoadingModelC">GeneralDataLoadingModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/GeneralDataLoadingViewModel.html">GeneralDataLoadingViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/Log.html">Log</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MapCursor.html">MapCursor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/NetworkService.html">NetworkService</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/PaginationDataLoadingModel.html">PaginationDataLoadingModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/PaginationWrapper.html">PaginationWrapper</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ResettableFixedPageCursor.html">ResettableFixedPageCursor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ResettableMapCursor.html">ResettableMapCursor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RxDataLoadingModel.html">RxDataLoadingModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SeparatorCell.html">SeparatorCell</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SeparatorRowBox.html">SeparatorRowBox</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SingleLoadCursor.html">SingleLoadCursor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SingleLoadCursorConfiguration.html">SingleLoadCursorConfiguration</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SpinnerView.html">SpinnerView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/StaticCursor.html">StaticCursor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/TextFieldViewModel.html">TextFieldViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/TotalCountCursor.html">TotalCountCursor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/XibView.html">XibView</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Enums.html">Enumerations</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Enums/CellSeparatorType.html">CellSeparatorType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/CursorError.html">CursorError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/GeneralDataLoadingState.html">GeneralDataLoadingState</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/LeadKitError.html">LeadKitError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/PaginationDataLoadingState.html">PaginationDataLoadingState</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/RequestError.html">RequestError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ResizeMode.html">ResizeMode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ViewBackground.html">ViewBackground</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ViewText.html">ViewText</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Extensions.html">Extensions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Extensions/Alamofire.html">Alamofire</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Alamofire/SessionManager.html">– SessionManager</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Array.html">Array</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/CGBitmapInfo.html">CGBitmapInfo</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/CGContext.html">CGContext</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/CGFloat.html">CGFloat</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/CGImage.html">CGImage</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/CGSize.html">CGSize</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Comparable.html">Comparable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Double.html">Double</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Double/RoundingType.html">– RoundingType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/NSAttributedString.html">NSAttributedString</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/NSMutableAttributedString.html">NSMutableAttributedString</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Observable.html">Observable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Reactive.html">Reactive</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Sequence.html">Sequence</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Single.html">Single</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/String.html">String</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/TableDirector.html">TableDirector</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/TableRow.html">TableRow</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/TimeInterval.html">TimeInterval</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UIApplication.html">UIApplication</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UICollectionView.html">UICollectionView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UIColor.html">UIColor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UIImage.html">UIImage</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UILabel.html">UILabel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UITableView.html">UITableView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UIView.html">UIView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UIViewController.html">UIViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UIWindow.html">UIWindow</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Variable.html">Variable</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Functions.html">Functions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Functions.html#/s:7LeadKit2eeoiSbSayxGSg_ADts9EquatableRzlF">==(_:_:)</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Functions.html#/s:7LeadKit4castxypSgKlF">cast(_:)</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Functions.html#/s:7LeadKit8typeNameSSxm2of_tlF">typeName(of:)</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Protocols/AbstractReuseIdentifierProtocol.html">AbstractReuseIdentifierProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/Animatable.html">Animatable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/AppearanceConfigurable.html">AppearanceConfigurable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/BackgroundViewHolder.html">BackgroundViewHolder</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols.html#/s:7LeadKit13BaseViewModelP">BaseViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ConfigurableController.html">ConfigurableController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ConfigurableNetworkService.html">ConfigurableNetworkService</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ConfigurableView.html">ConfigurableView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/CursorType.html">CursorType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/DataLoadingModel.html">DataLoadingModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/DataLoadingState.html">DataLoadingState</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/DataSource.html">DataSource</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/DateFormat.html">DateFormat</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/DateFormattingService.html">DateFormattingService</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/DisposeBagHolder.html">DisposeBagHolder</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/DrawingOperation.html">DrawingOperation</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/FooterViewHolder.html">FooterViewHolder</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/GeneralDataLoadingController.html">GeneralDataLoadingController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/LoadingIndicator.html">LoadingIndicator</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/LoadingIndicatorHolder.html">LoadingIndicatorHolder</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ModuleConfigurator.html">ModuleConfigurator</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/NumberFormat.html">NumberFormat</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/NumberFormattingService.html">NumberFormattingService</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ObservableMappable.html">ObservableMappable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/PaginationWrapperDelegate.html">PaginationWrapperDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ResettableType.html">ResettableType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ReuseIdentifierProtocol.html">ReuseIdentifierProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/RxDataSource.html">RxDataSource</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ScrollViewHolder.html">ScrollViewHolder</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/Singleton.html">Singleton</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/StaticViewHeightProtocol.html">StaticViewHeightProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/SupportCompatible.html">SupportCompatible</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/TextFieldViewEvents.html">TextFieldViewEvents</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/TextFieldViewModelEvents.html">TextFieldViewModelEvents</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols.html#/s:7LeadKit29TotalCountCursorConfigurationP">TotalCountCursorConfiguration</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/TotalCountCursorListingResult.html">TotalCountCursorListingResult</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ViewHeightProtocol.html">ViewHeightProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/XibNameProtocol.html">XibNameProtocol</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Structs.html">Structures</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Structs/AnyLoadingIndicator.html">AnyLoadingIndicator</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/ApiRequestParameters.html">ApiRequestParameters</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/DefaultTotalCountCursorListingResult.html">DefaultTotalCountCursorListingResult</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/SeparatorConfiguration.html">SeparatorConfiguration</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Support.html">Support</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Typealiases.html">Type Aliases</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:7LeadKit13CGContextSizea">CGContextSize</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:7LeadKit19PaginationWrappablea">PaginationWrappable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:7LeadKit20ResettableCursorTypea">ResettableCursorType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:7LeadKit28ResettableRxDataSourceCursora">ResettableRxDataSourceCursor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:7LeadKit9VoidBlocka">VoidBlock</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>DrawingOperation</h1>
+              <div class="declaration">
+                <div class="language">
+                  <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">DrawingOperation</span></code></pre>
+
+                </div>
+              </div>
+            <p>Abstract drawing operation that can can be applied in CGContext.
+Reports required size and opaque attibute for context.</p>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:7LeadKit16DrawingOperationP11contextSizeSi5width_Si6heighttvp"></a>
+                    <a name="//apple_ref/swift/Property/contextSize" class="dashAnchor"></a>
+                    <a class="token" href="#/s:7LeadKit16DrawingOperationP11contextSizeSi5width_Si6heighttvp">contextSize</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Required context size.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">var</span> <span class="nv">contextSize</span><span class="p">:</span> <span class="kt"><a href="../Typealiases.html#/s:7LeadKit13CGContextSizea">CGContextSize</a></span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/petropavel13/LeadKit/tree/0.7.5/Sources/Protocols/Drawing/DrawingOperation.swift#L32">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:7LeadKit16DrawingOperationP6opaqueSbvp"></a>
+                    <a name="//apple_ref/swift/Property/opaque" class="dashAnchor"></a>
+                    <a class="token" href="#/s:7LeadKit16DrawingOperationP6opaqueSbvp">opaque</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Reports: should context be opaque.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">var</span> <span class="nv">opaque</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/petropavel13/LeadKit/tree/0.7.5/Sources/Protocols/Drawing/DrawingOperation.swift#L35">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:7LeadKit16DrawingOperationP5applyySo9CGContextC2in_tF"></a>
+                    <a name="//apple_ref/swift/Method/apply(in:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:7LeadKit16DrawingOperationP5applyySo9CGContextC2in_tF">apply(in:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Applies drawing operation in given CGContext instance.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">apply</span><span class="p">(</span><span class="k">in</span> <span class="nv">context</span><span class="p">:</span> <span class="kt">CGContext</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div>
+                        <h4>Parameters</h4>
+                        <table class="graybox">
+                          <tbody>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>context</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>CGContext to perform drawing manipulations.</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/petropavel13/LeadKit/tree/0.7.5/Sources/Protocols/Drawing/DrawingOperation.swift#L40">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2018 <a class="link" href="https://touchin.ru" target="_blank" rel="external">Touch</a>. All rights reserved. (Last updated: 2018-04-02)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.9.1</a>, a <a class="link" href="http://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>
